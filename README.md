@@ -5,4 +5,4 @@ This is a basic deep learning model implementation capable of handling complex d
 - `numpy`: for matrix computation  
 - `matplotlib` : visualization
 - `sklearn` : generating dataset
-- `tqdm` : progression bar (learning phase)
+- `tqdm` : progression bar of the traning part
